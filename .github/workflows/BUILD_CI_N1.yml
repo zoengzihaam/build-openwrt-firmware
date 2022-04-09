@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Build OpenWrt Firmware - Raspi
+name: Build OpenWrt Firmware - N1
 
 # Controls when the workflow will run
 on:
